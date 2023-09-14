@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\Compra\Compra\bin\Debug\Compra.exe.config
+C:\Users\lucas\source\repos\Compra\Compra\bin\Debug\Compra.exe
+C:\Users\lucas\source\repos\Compra\Compra\bin\Debug\Compra.pdb
+C:\Users\lucas\source\repos\Compra\Compra\obj\Debug\Compra.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Compra\Compra\obj\Debug\Compra.Form1.resources
+C:\Users\lucas\source\repos\Compra\Compra\obj\Debug\Compra.Properties.Resources.resources
+C:\Users\lucas\source\repos\Compra\Compra\obj\Debug\Compra.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\Compra\Compra\obj\Debug\Compra.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Compra\Compra\obj\Debug\Compra.exe
+C:\Users\lucas\source\repos\Compra\Compra\obj\Debug\Compra.pdb
